@@ -6,7 +6,11 @@ __author__ = "Brian Mahan"
 """
     Description: This project is a demonstration of the skills learned
                throughout all of the Pogil Activities in class.
+               
     Sources that Helped: https://www.w3schools.com/python/ 
+    
+    Github Link:
+        https://github.com/BjMahan/Integration-Project
 """
 
 
